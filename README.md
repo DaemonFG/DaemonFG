@@ -19,7 +19,7 @@ I am Fang-tung Keng, a passionate and creative developer dedicated to **Deep Neu
 
 Some facts about me:
 * Algorithm Engineer in the Field of Smart Transportation at China Mobile Shanghai Industrial Research Institute
-* Ex Project Reviewer for IPND, DAND, PYND at [Udacity](www.udacity.com)
+* Ex Project Reviewer for IPND, DAND, PYND at [Udacity](https://www.udacity.com)
 
 <details>
   <summary>The books that I am writing or translating</summary>
