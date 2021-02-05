@@ -25,5 +25,5 @@ Some facts about me:
   <summary>The books that I am writing or translating</summary>
   <br>
 
-* [Orignal writing] A online book about Natural language processing
+* [Orignal writing] A online book about natural language processing
 </details>
