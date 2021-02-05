@@ -25,6 +25,5 @@ Some facts about me:
   <summary>The books that I am writing or translating</summary>
   <br>
 
-* [Orignal writing] A book about Rasa, I am the main auther, as far as I know this is the first book in the world that forcus on Rasa, ETA published in March 2021
-* [Translating] Chinese version of [Building Machine Learning Pipelines by O'reilly](https://www.amazon.com/Building-Machine-Learning-Pipelines-Automating/dp/1492053198), I am one of three translators, ETA published in May 2021
+* [Orignal writing] A online book about Natural language processing
 </details>
